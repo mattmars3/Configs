@@ -120,6 +120,11 @@ alias obsidian="~/Apps/Obsidian-1.0.3.AppImage &"
 alias fixshit="~/.screenlayout/desktopLayout.sh"
 alias harddrive="cd /run/media/matt/B68F-A8E8/"
 
+alias ls="lsd"
+alias du="ncdu"
+alias df="duf"
+alias sl="figlet dickhead"
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
